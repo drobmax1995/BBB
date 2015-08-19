@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BrothersByBottle</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="application_id">FlZiz7zqk58ZKISFEjoIdxJY6OyIAvDINqoCpiTw</string>
+    <string name="client_id">i2iH0m4weji8AXmz1mJhfaaLBr6vGUzFwV8OSAN1</string>
+    <string name="err_fields_empty">заполните все поля</string>
+    <string name="alert_wait">авторизация....</string>
+    <string name="err_login">не удалось войти</string>
+    <string name="err_singup">ошибка регистрации</string>
+    <string name="book_title">долговая книга</string>
+    <string name="create_event">создать событие</string>
+    <string name="my_events">мои события</string>
+    <string name="exit_profile">выход из профиля</string>
+    <string name="to_me">мне должны</string>
+    <string name="from_me">я должен</string>
+    <string name="archive">закрытые сделки</string>
+</resources>
